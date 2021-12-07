@@ -15,7 +15,7 @@ a. Proses Pendaftaran
 -status pendftaran user akan berubah menjadi 1 di table pendaftaran (Pendaftaran sudah dikonfirmasi oleh admin)
 -Proses pendaftaran selesai, lanjut ke proses pembayaran.
 
-b. Proses pembayaran Pendaftaran (Cicilan Pembayaran pendaftara + SPP Bulan ke 1)
+b. Proses pembayaran Pendaftaran (Cicilan Pembayaran pendaftaran)
 -User melakukan melakukan pembayaran di menu pembayaran
 -User klik metode pembayaran yang akan digunakan (Metode pembayaran tidak bisa berubah setelah dipilih)
 -User Cetak Kwitasi yang harus dibayarkan (sesuai kelas, untuk biaya yg akan dibayarkan)
