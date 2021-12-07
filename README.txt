@@ -1,4 +1,6 @@
-**Proses Sistem**
+Final project job certification
+
+Ini merupakan File Final Project dibuat oleh Siswa - Siswa Pelatihan DTS-VSGA untuk Kompetensi Junior Web Developer, dimana pada aplikasi sederhana ini yang merupakan Aplikasi PENDAFTARAN SISWA BERBASIS ONLINE.
 
 a. Proses Pendaftaran
 -calon siswa melakukan pendaftaran melalui menu daftar
